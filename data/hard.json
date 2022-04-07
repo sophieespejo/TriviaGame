@@ -1,0 +1,254 @@
+{
+    "hardQuestions": [
+        {
+            "question": "The four inner planets are _________.",
+            "options": ["Mercury, Venus, Earth, and Mars", "Venus, Earth, Mars, and Jupiter", "Earth, Mars, Saturn, and Uranus", "Jupiter, Saturn, Uranus, and Neptune"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "The planet Jupiter is which of the following?",
+            "options": ["An inner planet", "A gas giant", "A terrestrial planet", "An asteroid"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "Which two planets are known as ice giants?",
+            "options": ["Mars and Jupiter", "Jupiter and Uranus", "Uranus and Neptune", "Uranus and Saturn"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "Which planet is the hottest in our solar system?",
+            "options": ["Mercury", "Earth", "Mars", "Venus"],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "Which planet or planets have rings?",
+            "options": ["Only Saturn", "Saturn and Jupiter", "Jupiter, Saturn, Uranus, and Neptune", "Neptune and Pluto"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "What's similar to a planet but too small to clear other objects from its orbit?",
+            "options": ["galaxy", "black hole", "dwarf-planet", "sun"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "What's the name of the sun and the planets, asteroids, comets, and meteors that revolve around it",
+            "options": ["moon", "light-year", "comet", "solar system"],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "What are visible at night and look like fixed points of light?",
+            "options": ["star", "comet", "asteroid", "meteor"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "What develops a cloudy tail as it moves closer to the sun in its orbit",
+            "options": ["Milky Way", "comet", "galaxy", "planet"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "Which's the heavenly body in our solar system whose light makes our day?",
+            "options": ["Earth", "Andromeda", "sun", "Mercury"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "Which word means a smaller body that revolves around a planet",
+            "options": ["moon", "star", "Milky Way", "sun"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "What holds a galaxy together?",
+            "options": ["the sun", "dark matter", "energy", "gravity"],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "The sun, Earth, and the other planets of our solar system are part of which galaxy?",
+            "options": ["Virgo cluster", "Milky Way", "Andromeda", "Hubble"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "The Milky Way is a type of galaxy named for being shaped like a _____.",
+            "options": ["circle", "double helix", "spiral", "oval"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "What do scientists believe is at the center of the Milky Way galaxy?",
+            "options": ["the sun", "a quark", "a black hole", "a red giant"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "What is one thing that not all galaxies have?",
+            "options": ["black holes", "dust", "stars", "suns"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "If you stood on the moon, your weight would be about ________.",
+            "options": ["half your weight on Earth", "twice as great as on Earth", "one-sixth your weight on Earth", "three times as great as on Earth"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "Which lunar phase has more of the lunar surface appears lit up each night?:",
+            "options": ["Shrinking", "Exploding", "Waxing", "Waning"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "A lunar eclipse occurs when _______________.",
+            "options": ["Earth blocks the light from the moon", "the moon lines up with another moon", "the moon blocks the light from the sun", "Earth crosses directly between the sun and the moon"],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "The moon’s gravitational pull is largely responsible for what phenomenon on Earth?",
+            "options": ["Earthquakes", "Tsunamis", "Seasons", "Tides"],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "The sun is our closest _______.",
+            "options": ["friend", "black hole", "star", "planet"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "If the sun were hollow, about how many Earths could fit inside it?",
+            "options": ["100,000", "Nearly a million", "876,302", "20"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "Which planet in our solar system is closest to the sun?",
+            "options": ["Mercury", "Earth", "Pluto", "Saturn"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "Sunspots—dark areas on the sun’s surface—are caused by__________.",
+            "options": ["solar flares", "variations in magnetic field", "radiation", "UV light"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "About how long does it take for light from the sun to reach Earth?",
+            "options": ["Two light years", "Four days", "Eight minutes and 20 seconds", "Five minutes and 15 seconds"],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "Which correctly describes the composition of the planet Earth?",
+            "options": ["it is an asteroid", "it is a terrestrial planet", "it is a gas planet", "it is part of a dual-Sun system"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "Which of the following planets is NOT a terrestrial planet like Earth?",
+            "options": ["Mercury", "Neptune", "Venus", "Mars"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "What do the terrestrial planets have in common?",
+            "options": ["a crust, mantle, and core on the interior", "liquid water", "1 moon orbiting them", "multiple species living on them"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "What do we say has passed once the Earth completes a revolution around the Sun?",
+            "options": ["1 year", "1 minute", "1 day", "1 hour"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "Why is Earth said to be in the Solar System's 'Goldilocks Zone?'",
+            "options": ["the Sun looks golden from Earth", "we have the perfect number of species", "the amount of sunlight is 'just right'", "we have a moon that is 'just right'"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "Why does the Sun appear larger & brighter than other stars?",
+            "options": ["it is closer", "it is hotter", "it is not a star", "it is an optical illusion"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "Earth's revolution around the Sun causes which of the following patterns?",
+            "options": ["day and night", "seasonal changes", "length of shadows", "ocean tides"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "What evidence did scientists use to determine that Earth's age is about 4.6 billion years?",
+            "options": ["revolution around the Sun", "rock strata", "ocean salinity", "cloud formation"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "What force is responsible for keeping Earth in orbit the Sun?",
+            "options": ["gravity", "magnetism", "friction", "duct tape"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "What is considered to be a natural satellite of Earth?",
+            "options": ["Hubble", "the International Space Station", "the moon", "GPS satellites"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "The moon's gravity on Earth can be responsible for what?",
+            "options": ["changing ocean tides", "mountain ranges", "Earth's magnetism", "the weather"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "What occurs during a solar eclipse?",
+            "options": ["Moon comes between Earth & Sun", "Earth comes between Sun & Moon", "Sun comes between Earth & Moon", "Earth covers part of the Sun's disk"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "How many moons does Uranus have?",
+            "options": ["27", "24", "43", "16"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "When the Sun's light shines through low-lying valleys on the edge of the Moon it is called:",
+            "options": ["partial eclipse", "diamond ring", "Bailey's Beads", "totality"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "Why does the shadowed area on Earth constantly change during an eclipse?",
+            "options": ["the Sun is orbiting Earth", "the Sun is orbiting the Moon", "the Earth is not moving at all", "the Earth & Moon are in constant motion"],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "What lighter, outer part of a shadow will only create a partial eclipse?",
+            "options": ["penumbra", "umbra", "perigee", "apogee"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "After a giant star runs out of hydrogen fuel and explodes, what is left behind?",
+            "options": ["a black hole", "memories", "white dwarf star", "a comet"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "A solar eclipse only occurs during this phase of the lunar cycle",
+            "options": ["full moon", "new moon", "crescent moon", "gibbous moon"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "How many days does it take Mercury to travel around the sun?",
+            "options": ["687 Days", "88 Days", "164.5 years", "240 days"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "Our solar system is made up of the sun, our planets, moons, asteroids, and what?",
+            "options": ["comets", "spaceships", "black holes", "nebulae"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "One whole spin of an object on its axis is called a what?",
+            "options": ["revolution", "spin", "rotation", "orbit"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "The northern end of Earth's Axis is called what?",
+            "options": ["Mt. Everest", "South Pole", "North Pole", "Mariana Trench"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "The moon has almost no what?",
+            "options": ["rocks", "atmosphere", "craters", "dust"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "Spacecraft that gather data without a crew are called what?",
+            "options": ["rocks", "atmosphere", "craters", "dust"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "Who theorized the Earth rotated around the Sun?",
+            "options": ["Isaac Newton", "Nicolaus Copernicus", "Edwin Hubble", "Ptolemy"],
+            "correctAnswer": "1"
+        }
+    ]
+}

@@ -1,0 +1,250 @@
+{
+    "easyQuestions": [
+        {
+            "question": "Which is the smallest planet in the solar system?",
+            "options": ["Pluto", "Jupiter","Earth", "Mars"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "The moon called Tibus orbits what planet?",
+            "options": ["Earth", "Saturn", "Jupiter", "Uranus"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "Which is the brightest planet in the solar system?",
+            "options": ["Earth", "Saturn", "Venus", "Uranus"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "How many moons does Earth have?",
+            "options": ["9", "8", "3", "1"],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "What is the largest planet in our solar system?",
+            "options": ["Pluto", "Mercury", "Jupiter", "Uranus"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "What is our solar system called?",
+            "options": ["Milky Wax Galaxy", "Moldy Way Galaxy", "Milky Way Galaxy", "Snickers Galaxy"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "Which number planet is Jupiter from the sun?",
+            "options": ["4", "8", "6", "5"],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "Which number planet is Earth from the sun?",
+            "options": ["3", "2", "5", "4"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "What is the number of stars in the milky way galaxy?",
+            "options": ["5 billion", "100 thousand million", "2", "100 million"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "How long does it take for the Earth to complete one single orbit?",
+            "options": ["24 hours", "360 days", "365 days", "365 years"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "Which planet is closest to the Sun?",
+            "options": ["Mercury", "Venus", "Mars", "Earth"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "Which planet is famous for a big red spot?",
+            "options": ["Uranus", "Neptune", "Saturn", "Jupiter"],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "Which planet is famous for the rings around it?",
+            "options": ["Uranus", "Saturn", "Earth", "Mars"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "Who was the first person to walk on the moon?",
+            "options": ["me", "you", "Neil Armstrong", "Louis Armstrong"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "Which planet is known as the red planet?",
+            "options": ["Mercury", "Venus", "Mars", "Saturn"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "What is the name of the force keeping us on Earth?",
+            "options": ["gravity", "mass", "acceleration", "velocity"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "What is the name of a place that uses telescopes and other scientific equipment to research space and astronomy?",
+            "options": ["labratory", "satellite", "lavatory", "observatory"],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "Winds on this planet blow at over 1,000 mph?",
+            "options": ["Mercury", "Uranus", "Mars", "Saturn"],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "Which planet rotates on its axis faster than any other planet?",
+            "options": ["Venus", "Mars", "Jupiter", "Neptune"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "Which planet is named after the Roman God of Agriculture?",
+            "options": ["Mars", "Saturn", "Earth", "Jupiter"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "Which planet is tilted on its axis?",
+            "options": ["Uranus", "Neptune", "Pluto", "Mercury"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "Which planet has the strongest gravity of all planets?",
+            "options": ["Mercury", "Jupiter", "Saturn", "Mars"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "Which planet has a moon named Triton?",
+            "options": ["Uranus", "Venus", "Neptune", "Earth"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "Which planet does not have any rings?",
+            "options": ["Saturn", "Mercury", "Neptune", "Uranus"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "Which planet revolves around the sun every 88 days?",
+            "options": ["Earth", "Mercury", "Mars", "Venus"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "Which planet could hold about 758 Earths inside of it?",
+            "options": ["Saturn", "Neptune", "Mars", "Earth"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "Which planet is the third brightest object in the night sky?",
+            "options": ["Jupiter", "Venus", "Earth", "Neptune"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "Which planet has liquid water on it?",
+            "options": ["Neptune", "Mars", "Earth", "Mercury"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "Which planet is the coldest in the solar system?",
+            "options": ["Uranus", "Neptune", "Mercury", "Mars"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "Which planet has a year length of 29.5 Earth years?",
+            "options": ["Earth", "Saturn", "Uranus", "Neptune"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "Which planet has clouds made of sulfuric acid?",
+            "options": ["Jupiter", "Venus", "Saturn", "Neptune"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "Which planet did the Curiosity rover land on?",
+            "options": ["Mars", "Mercury", "Venus", "the moon"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "How many moons does Jupiter have?",
+            "options": ["65", "76", "79", "13"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "How many moons does Saturn have?",
+            "options": ["82", "80", "49", "45"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "How many moons does Mercury have?",
+            "options": ["0", "7", "27", "15"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "How many moons does Venus have?",
+            "options": ["7", "8", "0", "1"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "How many moons does Mars have?",
+            "options": ["9", "4", "34", "2"],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "How many moons does Uranus have?",
+            "options": ["27", "24", "43", "16"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "How many moons does Neptune have?",
+            "options": ["9", "14", "21", "1"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "How many days does it take Venus to orbit the Sun?",
+            "options": ["200 days", "225 days", "230 days", "240 days"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "How many Earth years does it take Uranus to orbit the sun?",
+            "options": ["84", "80", "67", "92"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "How many Earth years does it take Neptune to orbit the Sun?",
+            "options": ["200 years", "157 years", "165 years", "204 years"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "How many Earth years does it take Pluto to orbit the Sun?",
+            "options": ["400 years", "262 years", "248 years", "382 years"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "Which planet has 2 moons?",
+            "options": ["Earth", "Mars", "Venus", "Mercury"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "Which planet has 1 moon?",
+            "options": ["Mars", "Earth", "Neptune", "Jupiter"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "Which planet has the greatest number of moons?",
+            "options": ["Jupiter", "Venus", "Uranus", "Saturn"],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "Which planet has 14 moons?",
+            "options": ["Mars", "Neptune", "Jupiter", "Uranus"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "What do all the planets revolve around?",
+            "options": ["Earth", "the Sun", "the moon", "Venus"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "How hot is the surface of the Sun?",
+            "options": ["1 million degrees", "10 million degrees", "100 million degrees","1000 million degrees"],
+            "correctAnswer": "2"
+        }
+    ]
+}
+

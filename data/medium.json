@@ -1,0 +1,254 @@
+{
+    "mediumQuestions": [
+        {
+            "question": "Who created the World Space week?",
+            "options": ["Green Peace", "American Red Cross", "CIA", "The United Nations General Assembly"],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "Space Week is every year on October 4-10 to honor what two events?",
+            "options": ["the week when Bruce Willis saved us from a huge asteroid", "the moon landing and the discovery of Pluto", "the launch of Sputnik and Signing of Outer Space Treaty", "the first days that aliens sought contact with earth"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "World Space Week was created to celebrate _______.",
+            "options": ["writers for giving us fantasy books", "space science & tech for the improvement of human condition", "new tech for films that are about outer space", "the discovery of aliens"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "How many countries celebrate Space Week?",
+            "options": ["192", "100", "80", "20"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "World Space Week consists of space education and outreach events held by...",
+            "options": ["aliens and humans", "fantasy fans", "prestigious academic institutions that study outer space", "space agencies, schools, planetaria, museums"],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "What was the theme of the World Space Week in 2018",
+            "options": ["Space Unites the World", "UFOs and third contact experiences", "Exploring New Worlds in Space", "How to Become an Alien"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "What was the theme for World Space Week in 2019?",
+            "options": ["Armageddon: What to do in case an asteroid hits the earth", "The Sun and other stars", "The Moon: Gateway to the Stars", "International Space Stations"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "The five dwarf planets in our solar system are Pluto, Haumea, Makemake, Ceres, and ___?",
+            "options": ["Vesta", "Eris", "Charon", "Neptune"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "What is the number of stars in the milky way galaxy?",
+            "options": ["5 billion", "100 thousand million", "2", "100 million"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "The Sun accounts for what percentage of our solar system's total mass?",
+            "options": ["99%", "95%", "80%", "60%"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "Which planet's day (at 243 Earth days) is longer than its year (225 Earth days)?",
+            "options": ["Mercury", "Jupiter", "Venus", "Saturn"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "Which planet is home to the largest volcano in the solar system?",
+            "options": ["Earth", "Mercury", "Venus", "Mars"],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "Which planet is the hottest in the solar system, with an average surface temperature of 847°F?",
+            "options": ["Venus", "Mercury", "Neptune", "Mars"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "In 3.75 billion years what galaxy will collide with the Milky Way?",
+            "options": ["Large Magellanic Cloud", "Butterfly Galaxy", "Andromeda Galaxy", "Needle Galaxy"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "With a year of only 88 Earth days, which planet in our solar system is the fastest?",
+            "options": ["Mercury", "Venus", "Uranus", "Pluto"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "How many people have walked on the moon?",
+            "options": ["7", "12", "15", "22"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "What were the first animals sent into outer space?",
+            "options": ["tortoises", "monkeys", "dogs", "fruit flies"],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "What is astronomy?",
+            "options": ["the study of physics", "the science of building spaceships", "the study of outer space", "the study of telescopes"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "What is the name of the first satellite sent into space?",
+            "options": ["Sputnik", "Apollo", "Laika", "R2D2"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "What is the name of NASA’s most famous space telescope?",
+            "options": ["Gobbling", "Bubble", "Hobbling", "Hubble"],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "What are the names of the two moons of Mars?",
+            "options": ["Phobos and Deimos", "Tom and Jerry", "Donald and Daisy", "Triton and Titan"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "Who was the first person on the moon and what was the name of the spacecraft they used?",
+            "options": ["Buzz Aldrin, Apollo 11", "Buzz Aldrin, Apollo 13", "Neil Armstrong, Apollo 11", "Alan Shepard, Apollo 13"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "How long does it take for the sun's light to reach Earth?",
+            "options": ["immediately", "8 minutes", "7 minutes", "7 seconds"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "How long does it take the Moon to travel once around the Earth?",
+            "options": ["12 months", "24 hours", "28 days", "1 week"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "How long does it take the Earth to turn once on its axis?",
+            "options": ["24 months", "12 hours", "24 hours", "1 week"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "How many phases does the moon have?",
+            "options": ["12", "8", "6", "2"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "Why does the Moon seem to change shape?",
+            "options": ["Because it gets bigger and smaller", "Because we only see the part that is lit by the Sun", "Because sometimes it is cloudy", "Because it really changes shape"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "In which phase is the moon when we cannot see it?",
+            "options": ["first quarter", "third quarter", "new moon", "full moon"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "Why are the days longer in the summer than in the winter in some parts of the world?",
+            "options": ["Because the Earth spins more slowly in the summer", "Because the Sun gets brighter in the summer", "Because the Earth is tilted as it moves around the Sun", "Because the Earth spins faster in winter"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "Can humans breathe normally in space as they can on Earth?",
+            "options": ["no", "yes", "only inside the spaceship", "only outside the spaceship"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "The sun is a..",
+            "options": ["planet", "satellite", "star", "rock"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "The Soviet Union launched the world's first artificial satellite into space in 1957. It was called _______",
+            "options": ["Apollo", "Sputnik I", "Vanguard", "Luna I"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "In 1969, the US landed astronauts on the moon. Which man took the first steps?",
+            "options": ["Buzz Aldrin", "Alan Shepard", "John Glenn", "Neil Armstrong"],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "How many people have walked on the moon?",
+            "options": ["12", "10", "25", "22"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "How many different reusable space shuttles did NASA send into orbit over Earth?",
+            "options": ["7", "1", "5", "15"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "Which U.S. program helped pave the way for the International Space Station?",
+            "options": ["Skylab", "Gemini", "Apollo", "Mercury"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "Which of these is one of Mars' moons?",
+            "options": ["Phobos", "Io", "Titan", "Ganymede"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "How many moons does Uranus have?",
+            "options": ["27", "24", "43", "16"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "About how many miles is Earth from the Sun?",
+            "options": ["95 trillion", "9400", "93 million", "9700000"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "The planets orbiting the Sun past Mars are known as what?",
+            "options": ["the rock monsters", "the mystery four", "the hot planets", "the gas giants"],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "How many Earth years does it take Uranus to orbit the sun?",
+            "options": ["84", "80", "67", "92"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "After a giant star runs out of hydrogen fuel and explodes, what is left behind?",
+            "options": ["a black hole", "memories", "white dwarf star", "a comet"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "What are Saturn's rings made of?",
+            "options": ["iron, copper, and gold", "ice, dust, and rocks", "light", "fire"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "How long in Earth time does it take Neptune to orbit the Sun?",
+            "options": ["16 days", "165 years", "16 years", "2 days"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "What is Mars' atmosphere mostly made of?",
+            "options": ["95% carbon dioxide", "95% oxygen", "95% H2O", "95% chlorine"],
+            "correctAnswer": "0"
+        },
+        {
+            "question": "Which planet is the only one that rotates horizontally, with its axis on the side, not top?",
+            "options": ["Saturn", "Mars", "Uranus", "Earth"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "Which of these is NOT a star?",
+            "options": ["Polaris", "Vega", "Europa", "Sirius"],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "Which of these comes first in a star life cycle?",
+            "options": ["supernova", "stellar nebula", "black hole", "white dwarf"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "How many planets have rings?",
+            "options": ["one", "four", "two", "three"],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "The brightest star in the night sky, Sirius, is known as...",
+            "options": ["the frog star", "Starface McBrighty", "the red star", "the dog star"],
+            "correctAnswer": "3"
+        }
+    ]
+}

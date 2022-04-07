@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Arvo&family=ZCOOL+QingKe+HuangYou&display=swap" rel="stylesheet">
+    <link rel="icon" href="../favicon.png">
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Space Trivia</title>
+  </head>
+  <body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <div class="game-container">
+                    <!-- main header -->
+                    <div class="header">
+                        <p class="text-center">Space Trivia</p>
+                    </div>
+                    <!-- Splash container -->
+                    <div class="splash-container" id="splash-container">
+                        <div class="row">
+                            <div class="col-12">
+                                <!-- Header -->
+                                <h1 class="difficultyTxt">Choose a difficulty:</h1>
+                                <form id="start-form">
+                                    <div class="selection-container">
+                                        <!--Easy questions  -->
+                                        <div class="radio-container">
+                                            <label for="value-easy">Easy Questions</label>
+                                            <input type="radio" name="questions" value="easy" id="value-easy">
+                                            <span class="best-score">
+                                                <span>Best Score:</span>
+                                                <span class="best-score-value"></span>
+                                            </span>
+                                        </div>
+                                        <!--Medium questions  -->
+                                        <div class="radio-container">
+                                            <label for="value-medium">Medium Questions</label>
+                                            <input type="radio" name="questions" value="medium" id="value-medium">
+                                            <span class="best-score">
+                                                <span>Best Score:</span>
+                                                <span class="best-score-value"></span>
+                                            </span>
+                                        </div>
+                                        <!--Hard questions  -->
+                                        <div class="radio-container">
+                                            <label for="value-hard">Hard Questions</label>
+                                            <input type="radio" name="questions" value="hard" id="value-hard">
+                                            <span class="best-score">
+                                                <span>Best Score:</span>
+                                                <span class="best-score-value"></span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                    <!-- Start Button -->
+                                    <div class="selection-footer">
+                                        <button class="start" type="submit">Start Round</button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Instructions/countdown container -->
+                    <div id="instructions-container" class="instructions-container" hidden >
+                        <div class="row justify-content-center mt-3">
+                            <div class="col-11">
+                                <div class="instructionsText text-center mt-2">
+                                    <p>You have 10 seconds to answer a space-themed question. There will be 25 random questions total. To help you out, a random wrong answer will be eliminated after the first 5 seconds. If you choose the correct answer within the first 10 seconds, you will earn 3 points. If you get the correct answer after a wrong answer is eliminated, you will get 1 point. If you get the question wrong, you will get no point. Good luck!</p>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="row mt-2 justify-content-center">
+                            <div class="col-6 col-md-4">
+                                <button id="startBtn" class="startBtn">Start</button>
+                            </div>
+                        </div>
+                        <div class="row mt-5 justify-content-center text-center">
+                            <div class="col-6">
+                                <p class="countdownTxt" id="countdownTxt"></p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Question Container -->
+                    <div class="question-container justify-content-center" id="question-container" hidden>
+                        <div class="row">
+                            <div class="col-12">
+                                <p class="timerText"><span id="timerText">10 seconds remaining</span></p>
+                            </div>
+                        </div>
+                        <div class="row mt-md-3">
+                            <div class="col">
+                                <div class="questionTxtBox" id="questionTxt">
+                                    <p>question goes here</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="button-container">
+                                <div class="row mt-2 mt-md-4 mb-md-4">
+                                    <div class="col-12 col-md-6">
+                                        <button class="optionBtn justify-content-center" value="0" type="button">option1
+                                        </button>
+                                    </div>
+                                    <div class="col-12 col-md-6">
+                                        <button class="optionBtn justify-content-center" value="1" type="button">option2
+                                        </button>
+                                    </div>
+                                    <div class="col-12 col-md-6">
+                                        <button class="optionBtn justify-content-center" value="2" type="button">option3
+                                        </button>
+                                    </div>
+                                    <div class="col-12 col-md-6">
+                                        <button class="optionBtn justify-content-center" value="3" type="button">option4
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12 qNumText">
+                                <p>Score:<span id="scoreTxt">0</span>........Question:<span id="currentQNum">?</span> out of 25</p>
+                            </div>
+                        </div>
+                    </div> <!---end of question container-->
+                    <!-- Result Container -->
+                    <div class="result-container" id="result-container" hidden>
+                        <div class="row justify-content-center">
+                            <div class="col-12 text-center">
+                                <p class="resultTextBox mb-3">
+                                    You've earned <span id="resultText">___</span>
+                                     points!
+                                    <button id="playAgainBtn"class="play-again mt-5">Play Again</button>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <script src="./scripts/app.js"></script>
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
+    -->
+  </body>
+</html>
